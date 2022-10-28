@@ -1,2 +1,2 @@
 # quetzalcoatl project
-Software Engineering Knowledge Base
+Software Engineering Knowledge Base and Research
